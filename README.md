@@ -17,4 +17,9 @@ part 1 : 分类
 part 2 : 回归
 
 1. 回归
+2. 树回归
 
+part 3 : 无监督学习
+1. K-均值聚类算法
+2. Apriori算法
+3. FP-growth算法
